@@ -9,5 +9,4 @@
 3) view the printed results in the console !
 
 ##Run time for both versions
-Version 1 = ??
-Version 2 = 33.77 ms
+Version 1 = ?? & Version 2 = 33.77 ms
