@@ -1,9 +1,9 @@
 # Systems-Programming-Project-2
-## Specifications to run version 1
+## Specifications to run version 1 (alex)
 
 
 
-## Specifications to run version 2 
+## Specifications to run version 2 (kenneth)
 1) Unzip the file
 2) move the Project 2 version 2 folder out of the folder that contains both projects so that it refers to the correct directory (move it out on desktop so that it is by itself)
 3) open the Project 2 version 2 (it cannot be a subdirectory again it MUST be the only folder) folder in visual studio (or whatever ide you want)
