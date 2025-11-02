@@ -2,11 +2,10 @@
 
 ## Specifications to run version 1 (alex)
 1)Unzip the file
-2) move the Project 2 version 1 folder out of the folder that contains both projects so that it refers to the correct directory (move it out on desktop so that it is by itself)
-3) open the Project 2 version 2
-4) For visual Studio you need extension pack for java (by microsoft), debugger for java extensions (by microsoft), language support for java (by Red Hat)
-5) run the main file
-6)view ressults in console
+2) Keep the version 1 folder inside the main folder that contains both projects
+3) For visual Studio you need extension pack for java (by microsoft), debugger for java extensions (by microsoft), language support for java (by Red Hat)
+4) run the main file
+5 )view ressults in console
 
 
 
